@@ -30,16 +30,16 @@ I am Abolfazl Jelodar; I graduated in civil engineering from [IUST](http://www.i
 
 <h4> Frameworks </h4>
 <span>
-  <img src="https://img.shields.io/badge/Django-0B6121?style=for-the-badge&logo=Django&logoColor=white">
+  <img src="https://img.shields.io/badge/Django-015216?style=for-the-badge&logo=Django&logoColor=white">
   <img src="https://img.shields.io/badge/Flask-FFFFFF?style=for-the-badge&logo=flask&logoColor=black">
 </span>
 
 <h4> Databases </h4>
 <span>
-  <img src="https://img.shields.io/badge/MSSQL-000000?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-FFFFFF?style=for-the-badge&logo=mongodb&logoColor=black">
-  <img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=black">
+  <img src="https://img.shields.io/badge/MSSQL-0D03B3B00000?style=for-the-badge&logo=mysql&logoColor=black">
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=green">
+  <img src="https://img.shields.io/badge/SQLite-99CAEC?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-2A2C52?style=for-the-badge&logo=mysql&logoColor=orange">
 </span>
 
 <h4> IDE </h4>
