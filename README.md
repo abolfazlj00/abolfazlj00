@@ -38,7 +38,7 @@ I am Abolfazl Jelodar; I graduated in civil engineering from [IUST](http://www.i
 <span>
   <img src="https://img.shields.io/badge/MSSQL-EA993A?style=for-the-badge&logo=mysql&logoColor=black">
   <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=green">
-  <img src="https://img.shields.io/badge/SQLite-99CAEC?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/SQLite-99CAEC?style=for-the-badge&logo=sqlite&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-2A2C52?style=for-the-badge&logo=mysql&logoColor=orange">
 </span>
 
@@ -49,7 +49,7 @@ I am Abolfazl Jelodar; I graduated in civil engineering from [IUST](http://www.i
 
 <h4> Operating System </h4>
 <span>
-  <img src="https://img.shields.io/badge/Linux-EAE792?style=for-the-badge&logo=linux&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=orange">
   <img src="https://img.shields.io/badge/Windows-80F1F5?style=for-the-badge&logo=windows&logoColor=black">
 </span>
 
