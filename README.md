@@ -49,7 +49,7 @@ I am Abolfazl Jelodar; I graduated in civil engineering from [IUST](http://www.i
 
 <h4> Operating System </h4>
 <span>
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=orange">
+  <img src="https://img.shields.io/badge/Linux-FFFFFF?style=for-the-badge&logo=linux&logoColor=orange">
   <img src="https://img.shields.io/badge/Windows-80F1F5?style=for-the-badge&logo=windows&logoColor=black">
 </span>
 
