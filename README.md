@@ -36,7 +36,7 @@ I am Abolfazl Jelodar; I graduated in civil engineering from [IUST](http://www.i
 
 <h4> Databases </h4>
 <span>
-  <img src="https://img.shields.io/badge/MSSQL-0D03B3B?style=for-the-badge&logo=mysql&logoColor=black">
+  <img src="https://img.shields.io/badge/MSSQL-EA993A?style=for-the-badge&logo=mysql&logoColor=black">
   <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=green">
   <img src="https://img.shields.io/badge/SQLite-99CAEC?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-2A2C52?style=for-the-badge&logo=mysql&logoColor=orange">
@@ -44,19 +44,19 @@ I am Abolfazl Jelodar; I graduated in civil engineering from [IUST](http://www.i
 
 <h4> IDE </h4>
 <span>
-<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white">
-<img src="https://img.shields.io/badge/Visual_Studio_Code-FFFFFF?style=for-the-badge&logo=visual%20studio%20code&logoColor=black">
+<img src="https://img.shields.io/badge/PyCharm-86FF6F?style=for-the-badge&logo=PyCharm&logoColor=white">
+<img src="https://img.shields.io/badge/Visual_Studio_Code-FFFFFF?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue">
 
 <h4> Operating System </h4>
 <span>
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white">
-  <img src="https://img.shields.io/badge/Windows-FFFFFF?style=for-the-badge&logo=windows&logoColor=black">
+  <img src="https://img.shields.io/badge/Linux-EAE792?style=for-the-badge&logo=linux&logoColor=white">
+  <img src="https://img.shields.io/badge/Windows-80F1F5?style=for-the-badge&logo=windows&logoColor=black">
 </span>
 
 <h4> Version Controls and CI/CD </h4>
 <span>
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-FFFFFF?style=for-the-badge&logo=git&logoColor=black">
+  <img src="https://img.shields.io/badge/Git-E8BC33?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-FFFFFF?style=for-the-badge&logo=git&logoColor=blue">
 </span>
     
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
