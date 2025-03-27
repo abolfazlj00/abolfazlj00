@@ -56,7 +56,7 @@ I am Abolfazl Jelodar; I graduated in civil engineering from [IUST](http://www.i
 <h4> Version Controls and CI/CD </h4>
 <span>
   <img src="https://img.shields.io/badge/Git-E8BC33?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-FFFFFF?style=for-the-badge&logo=git&logoColor=blue">
+  <img src="https://img.shields.io/badge/Docker-FFFFFF?style=for-the-badge&logo=docker&logoColor=blue">
 </span>
     
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
