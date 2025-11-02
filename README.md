@@ -7,7 +7,7 @@ I am Abolfazl Jelodar; I graduated in civil engineering from [IUST](http://www.i
 - 🌱 I’m currently learning **Python, AI, ML**
 - 👯 I’m looking to collaborate on Web Development Related Projects
 - 🤔 I’m looking for growing
-- 🥅 2025 Goals: Be expert in AI/ML
+- 🥅 2026 Goals: Be expert in Software Developing
 - ⚡ Fun fact: I love playing video games.
 
 <p align="center">
